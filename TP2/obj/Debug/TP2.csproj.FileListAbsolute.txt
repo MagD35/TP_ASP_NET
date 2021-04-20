@@ -1,0 +1,7 @@
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP2\bin\Debug\TP2.exe.config
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP2\bin\Debug\TP2.exe
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP2\bin\Debug\TP2.pdb
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP2\obj\Debug\TP2.exe
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP2\obj\Debug\TP2.pdb

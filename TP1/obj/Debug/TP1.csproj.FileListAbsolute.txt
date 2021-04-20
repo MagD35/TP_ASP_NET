@@ -1,0 +1,2 @@
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
