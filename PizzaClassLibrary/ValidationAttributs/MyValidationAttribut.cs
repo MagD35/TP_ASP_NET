@@ -1,11 +1,10 @@
-﻿using TP5.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace TP5.ValidationAttributs
+namespace PizzaClassLibrary.ValidationAttributs
 {
     public class MyValidationAttribut : ValidationAttribute
     {

@@ -83,4 +83,3 @@ C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP4\obj\Debug\TP4.csproj.C
 C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP4\obj\Debug\TP4.csproj.CopyComplete
 C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP4\obj\Debug\TP4.dll
 C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP4\obj\Debug\TP4.pdb
-C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP4\obj\Debug\TP4.csprojAssemblyReference.cache
