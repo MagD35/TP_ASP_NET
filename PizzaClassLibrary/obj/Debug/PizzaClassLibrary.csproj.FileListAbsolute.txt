@@ -1,0 +1,6 @@
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\PizzaClassLibrary\bin\Debug\PizzaClassLibrary.dll
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\PizzaClassLibrary\bin\Debug\PizzaClassLibrary.pdb
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\PizzaClassLibrary\obj\Debug\PizzaClassLibrary.csprojAssemblyReference.cache
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\PizzaClassLibrary\obj\Debug\PizzaClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\PizzaClassLibrary\obj\Debug\PizzaClassLibrary.dll
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\PizzaClassLibrary\obj\Debug\PizzaClassLibrary.pdb
