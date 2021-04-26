@@ -1,0 +1,7 @@
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\DojoClassLibrary\obj\Debug\DojoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\DojoClassLibrary\bin\Debug\DojoClassLibrary.dll
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\DojoClassLibrary\bin\Debug\DojoClassLibrary.pdb
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\DojoClassLibrary\obj\Debug\DojoClassLibrary.dll
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\DojoClassLibrary\obj\Debug\DojoClassLibrary.pdb
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\DojoClassLibrary\obj\Debug\DojoClassLibrary.csprojAssemblyReference.cache
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\DojoClassLibrary\bin\Debug\DojoClassLibrary.dll.config

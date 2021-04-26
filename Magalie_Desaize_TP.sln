@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP5", "TP5\TP5.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaClassLibrary", "PizzaClassLibrary\PizzaClassLibrary.csproj", "{601C5F5E-0D78-4196-BA8E-A0AA122B6F5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP6", "TP6\TP6.csproj", "{DFDADD0D-4FCF-4E66-9EAF-FE8F0ABA6B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DojoClassLibrary", "DojoClassLibrary\DojoClassLibrary.csproj", "{C155F126-5088-46A6-8E5F-C9B92D0E9A97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{601C5F5E-0D78-4196-BA8E-A0AA122B6F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{601C5F5E-0D78-4196-BA8E-A0AA122B6F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{601C5F5E-0D78-4196-BA8E-A0AA122B6F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDADD0D-4FCF-4E66-9EAF-FE8F0ABA6B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDADD0D-4FCF-4E66-9EAF-FE8F0ABA6B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDADD0D-4FCF-4E66-9EAF-FE8F0ABA6B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDADD0D-4FCF-4E66-9EAF-FE8F0ABA6B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C155F126-5088-46A6-8E5F-C9B92D0E9A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C155F126-5088-46A6-8E5F-C9B92D0E9A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C155F126-5088-46A6-8E5F-C9B92D0E9A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C155F126-5088-46A6-8E5F-C9B92D0E9A97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
