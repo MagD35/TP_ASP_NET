@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace DojoClassLibrary
 {
-    public class Samourai
-    {
-        public int Id { get; set; }
+    public class Samourai: IdEntity
+    {    
         public int Force { get; set; }
         public string Nom { get; set; }
         public virtual Arme Arme { get; set; }
+        public virtual ArtMartial ArtMartial { get; set; }
+        public virtual List<ArtMartial> ArtMartials { get; set; } = new List<ArtMartial>();
 
     }
 }

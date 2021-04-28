@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace DojoClassLibrary
 {
-    public class Arme
+    public class Arme: IdEntity
     {
-        public int Id { get; set; }        
         public string Nom { get; set; }
         public int Degats { get; set; }
     }

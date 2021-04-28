@@ -42,7 +42,8 @@ namespace TP6.Controllers
         // GET: Samourais/Create
         public ActionResult Create()
         {
-            SamouraiViewModel vm = new SamouraiViewModel();           
+            SamouraiViewModel vm = new SamouraiViewModel();
+            vm.Armes = db.Armes.ToList();
             return View(vm);
         }
 
