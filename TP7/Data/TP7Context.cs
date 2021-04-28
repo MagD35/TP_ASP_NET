@@ -33,5 +33,6 @@ namespace TP7.Data
         public System.Data.Entity.DbSet<DojoClassLibrary.Samourai> Samourais { get; set; }
 
         public System.Data.Entity.DbSet<DojoClassLibrary.Arme> Armes { get; set; }
+        public System.Data.Entity.DbSet<DojoClassLibrary.ArtMartial> ArtMartials { get; set; }
     }
 }

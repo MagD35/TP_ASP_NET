@@ -141,9 +141,13 @@
     <Compile Include="Migrations\202104271419291_Initial.Designer.cs">
       <DependentUpon>202104271419291_Initial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202104280931567_test9.cs" />
-    <Compile Include="Migrations\202104280931567_test9.Designer.cs">
-      <DependentUpon>202104280931567_test9.cs</DependentUpon>
+    <Compile Include="Migrations\202104280958087_test10.cs" />
+    <Compile Include="Migrations\202104280958087_test10.Designer.cs">
+      <DependentUpon>202104280958087_test10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104281350325_test11.cs" />
+    <Compile Include="Migrations\202104281350325_test11.Designer.cs">
+      <DependentUpon>202104281350325_test11.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\SamouraiViewModel.cs" />
@@ -229,8 +233,11 @@
     <EmbeddedResource Include="Migrations\202104271419291_Initial.resx">
       <DependentUpon>202104271419291_Initial.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202104280931567_test9.resx">
-      <DependentUpon>202104280931567_test9.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202104280958087_test10.resx">
+      <DependentUpon>202104280958087_test10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104281350325_test11.resx">
+      <DependentUpon>202104281350325_test11.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

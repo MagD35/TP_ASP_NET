@@ -94,4 +94,5 @@ C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP7\obj\Debug\TP7.pdb
 C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP7\obj\Debug\TP7.Migrations.InitialCreate.resources
 C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP7\obj\Debug\TP7.csproj.GenerateResource.cache
 C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP7\obj\Debug\TP7.Migrations.Initial.resources
-C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP7\obj\Debug\TP7.Migrations.test9.resources
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP7\obj\Debug\TP7.Migrations.test10.resources
+C:\Users\mdesaize2019\source\repos\Magalie_Desaize_TP\TP7\obj\Debug\TP7.Migrations.test11.resources
